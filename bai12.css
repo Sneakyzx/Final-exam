@@ -1,0 +1,8 @@
+.bai1 {
+    border: 1px solid transparent;
+    background-color:bisque;
+    width: 500px;
+    height: 200px;
+    border-radius: 23px;
+    line-height: 200px;
+}
